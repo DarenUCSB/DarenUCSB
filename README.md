@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarenUCSB
+- 👋 Hi, I’m @darenaguilera
 - 👀 I’m interested in various concepts revolved around data science, programming, and mathematics, such as machine learning and data engineering!
 - 🌱 I’m currently learning additional machine learning methods and tools, as well as practicing cloud computing. 
 - 💞️ I’m looking to collaborate on projects to further deepen and expand my knowledge, as well as practical applications to hone my skillset. 
